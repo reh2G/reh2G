@@ -1,16 +1,17 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF41&size=30&center=true&vCenter=true&width=1000&lines=HELLO+THERE!+Welcome+to+my+GitHub;My+name+is+Gabriel+Missima,+I'm+21+years+old;Please,+make+yourself+at+home;:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF41&size=30&center=true&vCenter=true&width=1000&lines=HELLO+THERE!+Welcome+to+my+GitHub;My+name+is+Gabriel+Missima,+I'm+22+years+old;Please,+make+yourself+at+home;:%29)](https://git.io/typing-svg)
 
 ### _ABOUT ME_
 
 <img src="https://media3.giphy.com/media/BWvUXvqEZgIWxIfQvN/giphy.gif" min-width="300px" max-width="300px" width="300px" align="right"/>
 <p>
 
-- 🤖 I'm passionate about developing <b>Artificial Intelligence</b> solutions;
+- 🤖 I'm passionate about developing <b>artificial intelligence</b> solutions;
 - 🎓 I hold a Bachelor's degree in <b>Computer Science</b> from [<b>Centro Universitário FEI</b>](https://portal.fei.edu.br/);
+- 📚 I'm currently pursuing a Master's degree in <b>Electrical Engineering</b>, with a focus on <b>Signal and Image Processing</b>, also at [<b>Centro Universitário FEI</b>](https://portal.fei.edu.br/mestrado-e-doutorado);
 - 🌎 I speak <b>English</b> and <b>Portuguese</b>;
-- 🎨 I obsess over clean, visually impactful design;
+- 🎨 I'm drawn to clean, visually impactful design;
 - 🧃 ,,_a verdadeira arte é só um reflexo dos sentimentos de quem a contempla_’’.
 
 <div>
@@ -33,6 +34,6 @@
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=dynatrace&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=phpstorm&logoColor=white) ![Paint.net](https://img.shields.io/badge/paint.net-%23ffffff.svg?style=for-the-badge&logo=googleclassroom&logoColor=black) ![Filmora](https://img.shields.io/badge/filmora-1E3B50.svg?style=for-the-badge&logo=wondersharefilmora&logoColor=white)
 
 #### Operational Systems:
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=hotelsdotcom&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=hotelsdotcom&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Pop!_OS](https://img.shields.io/badge/Pop!__OS-48B9C7?style=for-the-badge&logo=popos&logoColor=white)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
