@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=264DE4&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF41&size=30&center=true&vCenter=true&width=1000&lines=HELLO+THERE!+Welcome+to+my+GitHub;My+name+is+Gabriel+Missima,+I'm+22+years+old;Please,+make+yourself+at+home;:%29)](https://git.io/typing-svg)
 
@@ -32,7 +32,7 @@
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
 #### Development Tools:
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=osmc&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078D7.svg?style=for-the-badge&logo=osmc&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
 
@@ -41,10 +41,10 @@
 ![uv](https://img.shields.io/badge/uv-261230.svg?style=for-the-badge&logo=uv&logoColor=white)
 
 #### Libraries:
-![OpenCV](https://img.shields.io/badge/OpenCV-white.svg?style=for-the-badge&logo=opencv&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-FFFFFF.svg?style=for-the-badge&logo=opencv&logoColor=black)
 ![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff.svg?style=for-the-badge&logo=discogs&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-FFFFFF.svg?style=for-the-badge&logo=discogs&logoColor=black)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -52,7 +52,7 @@
 #### Creative & Productivity:
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=dynatrace&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=phpstorm&logoColor=white)
-![Paint.NET](https://img.shields.io/badge/paint.net-%23ffffff.svg?style=for-the-badge&logo=googleclassroom&logoColor=black)
+![Paint.NET](https://img.shields.io/badge/paint.net-%23FFFFFF.svg?style=for-the-badge&logo=googleclassroom&logoColor=black)
 ![Filmora](https://img.shields.io/badge/Filmora-1E3B50.svg?style=for-the-badge&logo=wondersharefilmora&logoColor=white)
 
 #### Operating Systems:
@@ -60,4 +60,4 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Pop!_OS](https://img.shields.io/badge/Pop!_OS-48B9C7.svg?style=for-the-badge&logo=popos&logoColor=white)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=264DE4&height=120&section=footer"/>
