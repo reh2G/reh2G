@@ -14,9 +14,9 @@
 
 - 🤖 I'm passionate about developing <b>artificial intelligence</b> solutions;
 - 🎓 I hold a Bachelor's degree in <b>Computer Science</b> from [<b>Centro Universitário FEI</b>](https://portal.fei.edu.br/);
-- 📚 I'm currently pursuing a Master's degree in <b>Electrical Engineering</b>, with a focus on <b>Signal and Image Processing</b>, also at [<b>Centro Universitário FEI</b>](https://portal.fei.edu.br/mestrado-e-doutorado);
+- 📚 I'm currently pursuing a Master's degree in <b>Electrical Engineering</b>, focused on <b>Signal and Image Processing</b>, also at [<b>Centro Universitário FEI</b>](https://portal.fei.edu.br/mestrado-e-doutorado);
 - 🌎 I speak <b>English</b> and <b>Portuguese</b>;
-- 🎨 I'm drawn to clean, visually impactful design;
+- 🎨 I'm drawn to clean and visually impactful design;
 - 🧃 ,,_a verdadeira arte é só um reflexo dos sentimentos de quem a contempla_’’.
 
 <div>
