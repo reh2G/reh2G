@@ -1,4 +1,8 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1B1F23&height=120&section=header"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=header">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=header">
+</picture>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF41&size=30&center=true&vCenter=true&width=1000&lines=HELLO+THERE!+Welcome+to+my+GitHub;My+name+is+Gabriel+Missima,+I'm+22+years+old;Please,+make+yourself+at+home;:%29)](https://git.io/typing-svg)
 
@@ -60,4 +64,8 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Pop!_OS](https://img.shields.io/badge/Pop!_OS-48B9C7.svg?style=for-the-badge&logo=popos&logoColor=white)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1B1F23&height=120&section=footer"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=footer">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=header">
+</picture>
