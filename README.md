@@ -6,6 +6,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF41&size=30&center=true&vCenter=true&width=1000&lines=HELLO+THERE!+Welcome+to+my+GitHub;My+name+is+Gabriel+Missima,+I'm+22+years+old;Please,+make+yourself+at+home;:%29)](https://git.io/typing-svg)
 
+---
+
 ## 🗣️ _ABOUT ME_
 
 <img src="https://media3.giphy.com/media/BWvUXvqEZgIWxIfQvN/giphy.gif" width="35%" align="right"/>
@@ -23,9 +25,11 @@
   <a href="mailto:gnmissima@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
+---
+
 ## 🛠️ _TOOLKIT_
 
-#### Programming Languages:
+### Programming Languages:
 ![Python](https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-5C6BC0.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-D94FA5.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -34,22 +38,22 @@
 ![CSS3](https://img.shields.io/badge/CSS3-264DE4.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
-#### Development Tools:
+### Development Tools:
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078D7.svg?style=for-the-badge&logo=osmc&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
 
-#### Package & Environment Managers:
+### Package & Environment Managers:
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![uv](https://img.shields.io/badge/uv-261230.svg?style=for-the-badge&logo=uv&logoColor=white)
 
-#### Creative & Productivity:
+### Creative & Productivity:
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=dynatrace&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=phpstorm&logoColor=white)
 ![Paint.NET](https://img.shields.io/badge/paint.net-%23FFFFFF.svg?style=for-the-badge&logo=googleclassroom&logoColor=black)
 ![Filmora](https://img.shields.io/badge/Filmora-1E3B50.svg?style=for-the-badge&logo=wondersharefilmora&logoColor=white)
 
-#### Operating Systems:
+### Operating Systems:
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=hotelsdotcom&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Pop!_OS](https://img.shields.io/badge/Pop!_OS-48B9C7.svg?style=for-the-badge&logo=popos&logoColor=white)
