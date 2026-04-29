@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF41&size=30&center=true&vCenter=true&width=1000&lines=HELLO+THERE!+Welcome+to+my+GitHub;My+name+is+Gabriel+Missima,+I'm+22+years+old;Please,+make+yourself+at+home;:%29)](https://git.io/typing-svg)
 
-### _ABOUT ME_
+## _ABOUT ME_
 
 <img src="https://media3.giphy.com/media/BWvUXvqEZgIWxIfQvN/giphy.gif" width="35%" align="right"/>
 
@@ -23,7 +23,7 @@
   <a href="mailto:gnmissima@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-### _TOOLKIT_
+## _TOOLKIT_
 
 #### Programming Languages:
 ![Python](https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
@@ -42,15 +42,6 @@
 #### Package & Environment Managers:
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![uv](https://img.shields.io/badge/uv-261230.svg?style=for-the-badge&logo=uv&logoColor=white)
-
-#### Libraries:
-![OpenCV](https://img.shields.io/badge/OpenCV-FFFFFF.svg?style=for-the-badge&logo=opencv&logoColor=black)
-![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-FFFFFF.svg?style=for-the-badge&logo=discogs&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 #### Creative & Productivity:
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=dynatrace&logoColor=white)
