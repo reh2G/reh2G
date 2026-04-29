@@ -8,7 +8,7 @@
 
 ---
 
-## 🗣️ _ABOUT ME_
+## 🗣️ ABOUT ME
 
 <img src="https://media3.giphy.com/media/BWvUXvqEZgIWxIfQvN/giphy.gif" width="35%" align="right"/>
 
@@ -27,7 +27,7 @@
 
 ---
 
-## 🛠️ _TOOLKIT_
+## 🛠️ TOOLKIT
 
 ### Programming Languages:
 ![Python](https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
