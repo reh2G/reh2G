@@ -8,7 +8,7 @@
 
 ### _ABOUT ME_
 
-<img src="https://media3.giphy.com/media/BWvUXvqEZgIWxIfQvN/giphy.gif" min-width="150px" max-width="300px" width="300px" align="right"/>
+<img src="https://media3.giphy.com/media/BWvUXvqEZgIWxIfQvN/giphy.gif" width="35%" align="right"/>
 
 - 🤖 I'm passionate about developing <b>artificial intelligence</b> solutions;
 - 🎓 I hold a Bachelor's degree in <b>Computer Science</b> from [<b>Centro Universitário FEI</b>](https://portal.fei.edu.br/);
