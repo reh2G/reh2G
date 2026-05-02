@@ -20,6 +20,7 @@
 - 🧃 ,,_a verdadeira arte é só um reflexo dos sentimentos de quem a contempla_’’.
 
 <div>
+  <a href="https://reh2g.github.io/gmissima/"><img src="https://img.shields.io/badge/-Portifolio-1B3A5C?style=for-the-badge&logo=readdotcv&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabrielmissima" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=inspire&logoColor=white" target="_blank"></a>
   <a href="https://linktr.ee/suquinhu1"><img src="https://img.shields.io/badge/-Linktree-00AF66?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a>
   <a href="mailto:gnmissima@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
