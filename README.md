@@ -16,8 +16,7 @@
 - 🎓 I hold a Bachelor's degree in <b>Computer Science</b> from [<b>Centro Universitário FEI</b>](https://portal.fei.edu.br/);
 - 📚 I'm currently pursuing a Master's degree in <b>Electrical Engineering</b>, focused on <b>Signal and Image Processing</b>, also at [<b>Centro Universitário FEI</b>](https://portal.fei.edu.br/mestrado-e-doutorado);
 - 🌎 I speak <b>English</b> and <b>Portuguese</b>;
-- 🎨 I'm drawn to clean and visually impactful design;
-- 🧃 ,,_a verdadeira arte é só um reflexo dos sentimentos de quem a contempla_’’.
+- 🎨 I'm drawn to clean and visually impactful design.
 
 <div>
   <a href="https://reh2g.github.io/gmissima/"><img src="https://img.shields.io/badge/-Portifolio-1B3A5C?style=for-the-badge&logo=readdotcv&logoColor=white" target="_blank"></a>
