@@ -50,7 +50,7 @@
 ### Creative & Productivity:
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=dynatrace&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=phpstorm&logoColor=white)
-![Paint.NET](https://img.shields.io/badge/Paint.NET-0A1A2F?style=for-the-badge&logo=googleclassroom&logoColor=white)
+![Paint.NET](https://img.shields.io/badge/Paint.NET-5783AD?style=for-the-badge&logo=imagetoolbox&logoColor=white)
 ![OBS Studio](https://img.shields.io/badge/OBS%20Studio-302E31.svg?style=for-the-badge&logo=obsstudio&logoColor=white)
 ![Filmora](https://img.shields.io/badge/Filmora-1E3B50.svg?style=for-the-badge&logo=wondersharefilmora&logoColor=white)
 
