@@ -20,9 +20,9 @@
 
 <div>
   <a href="https://reh2g.github.io/gmissima/"><img src="https://img.shields.io/badge/-Portifolio-1B3A5C?style=for-the-badge&logo=readdotcv&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabrielmissima" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=inspire&logoColor=white" target="_blank"></a>
-  <a href="https://linktr.ee/suquinhu1"><img src="https://img.shields.io/badge/-Linktree-00AF66?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a>
-  <a href="mailto:gnmissima@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gabrielmissima" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-2663BF?style=for-the-badge&logo=inspire&logoColor=white" target="_blank"></a>
+  <a href="https://linktr.ee/suquinhu1"><img src="https://img.shields.io/badge/Linktree-00AF66?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a>
+  <a href="mailto:gnmissima@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
 ---
@@ -49,7 +49,7 @@
 
 ### Creative & Productivity:
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=dynatrace&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=phpstorm&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-41A7fA.svg?style=for-the-badge&logo=phpstorm&logoColor=white)
 ![Paint.NET](https://img.shields.io/badge/Paint.NET-5783AD?style=for-the-badge&logo=imagetoolbox&logoColor=white)
 ![OBS Studio](https://img.shields.io/badge/OBS%20Studio-302E31.svg?style=for-the-badge&logo=obsstudio&logoColor=white)
 ![Filmora](https://img.shields.io/badge/Filmora-1E3B50.svg?style=for-the-badge&logo=wondersharefilmora&logoColor=white)
