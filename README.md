@@ -30,7 +30,7 @@
 ## 🛠️ TOOLKIT
 
 ### Programming Languages:
-![Python](https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-5C6BC0.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-D94FA5.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-865DBD.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -45,19 +45,19 @@
 
 ### Package & Environment Managers:
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-![uv](https://img.shields.io/badge/uv-261230.svg?style=for-the-badge&logo=uv&logoColor=white)
+![uv](https://img.shields.io/badge/UV-261230.svg?style=for-the-badge&logo=uv&logoColor=white)
 
 ### Creative & Productivity:
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=dynatrace&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=phpstorm&logoColor=white)
-![Paint.NET](https://img.shields.io/badge/paint.net-%23FFFFFF.svg?style=for-the-badge&logo=googleclassroom&logoColor=black)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=phpstorm&logoColor=white)
+![Paint.NET](https://img.shields.io/badge/Paint.NET-0A1A2F?style=for-the-badge&logo=googleclassroom&logoColor=white)
 ![OBS Studio](https://img.shields.io/badge/OBS%20Studio-302E31.svg?style=for-the-badge&logo=obsstudio&logoColor=white)
 ![Filmora](https://img.shields.io/badge/Filmora-1E3B50.svg?style=for-the-badge&logo=wondersharefilmora&logoColor=white)
 
 ### Operating Systems:
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=hotelsdotcom&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Pop!_OS](https://img.shields.io/badge/Pop!_OS-48B9C7.svg?style=for-the-badge&logo=popos&logoColor=white)
+![Pop!_OS](https://img.shields.io/badge/Pop!__OS-48B9C7.svg?style=for-the-badge&logo=popos&logoColor=white)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=footer">
